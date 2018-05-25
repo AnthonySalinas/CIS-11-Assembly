@@ -1,0 +1,9 @@
+- [ ] Convert this variable to decimal: DWORD  1111 1111 1111 1111 1111 1111 1111 1110b
+- [ ] Convert this variable to decimal: SDWORD 1111 1111 1111 1111 1111 1111 1111 1110b
+- [ ] Convert this variable to decimal: DWORD  0000 0000 0000 0000 0000 0000 1111 1110b
+- [ ] Convert this variable to decimal: SDWORD 0000 0000 0000 0000 0000 0000 1111 1110b
+
+4294967294
+-2
+254
+254
