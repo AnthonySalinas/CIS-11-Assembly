@@ -4,6 +4,12 @@
 - [ ] Convert this variable to decimal: SDWORD 0000 0000 0000 0000 0000 0000 1111 1110b
 
 4294967294
+
+
 -2
+
+
 254
+
+
 254
