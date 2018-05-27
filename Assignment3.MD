@@ -6,3 +6,16 @@
 - [ ] 3.9.1 Short Answer, Questions 4, 5, 6, 25
 - [ ] 3.9.2 Algorithm Workbench, Questions 4, 7, 13
 - [ ] 3.10 Programming Exercises, Pick any 1 exercise
+
+
+3.1.11
+
+1)
+-35 ; integer
+-35 ; decimal
+111111111111111111011101 ; binary
+
+
+2)
+3)
+4)
