@@ -137,5 +137,13 @@ Translation happens all at one and then runs which lets it run much quicker by c
 
 1.7.2
 
+EC:
+1.4.2
+
+1) No X or Y
+2)X and Y
+3) True
+4) False
+5)True
 
 
