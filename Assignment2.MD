@@ -34,12 +34,12 @@ Assignment 2
 
 2.8
 
-7) 
-8) 
-9) 
-10) 
-12) 
-19) 
-20) 
-25)
-26)
+7) The floating point unit
+8) 48 bits
+9) True
+10) According to the book, it's true, not sure if it will change in the future
+12) False
+19) True
+20) False
+25)Levels 0-3
+26)To make maximum effictive use of the sound capabilities which can be fine tuned at this level
