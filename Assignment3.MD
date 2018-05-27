@@ -34,20 +34,27 @@ FFFFFFDD;hex
 4) loader
 
 3.4.13
-1)  var1 SWORD ?
-2)  var2 BYTE ?
+1) var1 SWORD ?
+2) var2 BYTE ?
 3) var3 SBYTE ?
 4) var4 QWORD ?
-5)  SDWORD
+5) SDWORD
 
 3.5.5 
 3)ArraySize  ($  myArray)
 
 
 3.9.1
- 4, 5, 6, 25
+ 4)Because it has other steps after the assembler step
+ 5)Little endian stores the least significant bit in the first memory address. Big endian stores the most significant bit
+ in the first memory address
+ 6) It allows for better readability
+ 25)SDWORD
  
  
-- [ ] 3.9.2 
- 4, 7, 13
-- [ ] 3.10 Programming Exercises, Pick any 1 exercise
+3.9.2 
+ 4)You can't
+ 7)array DWORD 120 DUP(?)
+ 13) BYTE 120 DUP("TEST")
+
+3.10 Programming Exercises, Pick any 1 exercise
