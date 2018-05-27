@@ -23,4 +23,23 @@ Assignment 2
 
 2.5.2
 
-1)
+1) Application programs (level 3) are the most portable
+
+2)BIOS level communicates directly with the hardware
+
+3) New devices which have capabilities that go beyond what the BIOS can handle/is designed for
+4) The BIOS level.
+5) No. The same BIOS can work for both. 
+
+
+2.8
+
+7) 
+8) 
+9) 
+10) 
+12) 
+19) 
+20) 
+25)
+26)
